@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>
+      content attribute in HTMLs
+  </title>
+    <meta name="keywords"
+          content="content attribute
+                   in Meta Tag, Metadata" />
+</head>
+ 
+<body style="text-align:center;">
+    <h1> GeeksforGeeks</h1>
+    <h2>Content Attribute In HTML</h2>
+</body>
+ 
+</html>
